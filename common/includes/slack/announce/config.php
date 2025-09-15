@@ -146,6 +146,7 @@ function get_whitelist() {
 			'webcommsat', // @abhanonstopnewsuk on Slack
 			'welcher',
 			'whitneyyadrich', // @Whitney on Slack
+			'wildworks', // @Aki Hamano on Slack
 			'zunaid321', // @Zunaid Amin on Slack
 		) ),
 		'core-ai' => array_merge( get_committers(), array(
